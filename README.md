@@ -6,9 +6,7 @@ I wrote a basic program that helps you create a list of things you need to remem
 
 My purpose for writing this software was to learn the basics of the Java language and use my knowledge for something practical. I often forget things when I am leaving the house, so a program like this would benefit me.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=luQz-QdohQM)
 
 # Development Environment
 
